@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/peterradics/packagetest.git"
   },
-  "author": "",
+  "author": "Peter Radics",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/peterradics/packagetest/issues"
