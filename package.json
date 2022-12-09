@@ -1,0 +1,19 @@
+{
+  "name": "packagetest",
+  "version": "1.0.0",
+  "description": "My first NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterradics/packagetest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterradics/packagetest/issues"
+  },
+  "homepage": "https://github.com/peterradics/packagetest#readme"
+}
